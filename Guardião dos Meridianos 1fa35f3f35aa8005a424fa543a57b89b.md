@@ -8,7 +8,7 @@
 - Dicas sobre pontos fáceis para leigos;
 - Dicas gerais de saúde e cuidados.
 
-## Nome do Podcast
+## Nome do Podcast (prompt)
 
 /Me dê 5 dicas de nomes com subtítulo para um podcast na área de Acupuntura, voltado para dicas gerais de saúde, utilizando os preceitos e diretrizes da Medicina Tradicional Chinesa. Utilize referências da cultura geek para criar algo criativo, por exemplo animes como Naruto, Solo Leveling, Demon Slayer e Yuyu Hakusho.
 
